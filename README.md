@@ -28,4 +28,4 @@ Open http://localhost:8000.
 
 Push changes to `main` to trigger Vercel deployments after the GitHub integration is connected.
 
-Generated project visuals are labelled as concept previews, not actual product screenshots. Professional case studies use generic titles to preserve client anonymity.
+Project visuals are labelled as concept previews, not actual product screenshots. Professional case studies use generic titles to preserve client anonymity.
