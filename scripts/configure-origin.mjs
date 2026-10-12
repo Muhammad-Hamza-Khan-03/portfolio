@@ -1,7 +1,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
-const original = 'https://hamza-khan-portfolio.hamzakhan102003.chatgpt.site';
-const host = process.env.SITE_URL || process.env.VERCEL_PROJECT_PRODUCTION_URL || process.env.VERCEL_URL;
+const original = 'https://muhammadhamzakhan.vercel.app';
+const host = process.env.SITE_URL || original;
 if (!host) { console.log('No deployment origin provided; retaining existing metadata.'); process.exit(0); }
 const origin = new URL(host.includes('://') ? host : `https://${host}`).origin;
 function visit(dir) {

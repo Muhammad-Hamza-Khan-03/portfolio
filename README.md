@@ -9,7 +9,7 @@ Static portfolio with professional, AI engineering, software, and data science p
 3. `vercel.json` supplies the build command and `dist` output directory. No dependencies or secrets are needed.
 4. Click **Deploy**, then open the assigned production URL.
 
-The build updates canonical URLs, social metadata, robots.txt, and the sitemap to the Vercel production domain. For a custom domain, set `SITE_URL=https://your-domain.example` in Vercel and redeploy.
+The build updates canonical URLs, social metadata, robots.txt, and the sitemap to `https://muhammadhamzakhan.vercel.app`. For a custom domain, set `SITE_URL=https://your-domain.example` in Vercel and redeploy.
 
 ## Local preview
 
